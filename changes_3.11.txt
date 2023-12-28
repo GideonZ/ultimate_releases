@@ -32,6 +32,8 @@ Fixes:
     of the cartrdiges that serve VIC data from external ROM, quite a few fixes in 
     the emulated printer, configurable page margins, ... and so on.
 
+======================================================================================
+
 
 
 Changes in 3.10i, compared to 3.10a
